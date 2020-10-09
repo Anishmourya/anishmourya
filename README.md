@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+I'm Anish Kumar Dhanka/Mourya, a computer programmer, DevOps & self-taught engineer, passionate about open source and computer science problems that help for a better world.
+
+Currently, I am learning Golang and Rust to enhance more programming concepts.
+
 <!--
 **Anishmourya/anishmourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
