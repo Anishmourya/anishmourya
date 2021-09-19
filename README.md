@@ -1,17 +1,12 @@
 ### Hi there 👋
-<img src="https://github.com/Anishmourya/anishmourya/blob/main/anish.png" align="right">
-
+<!-- <img src="https://github.com/Anishmourya/anishmourya/blob/main/anish.png" align="right">
+ -->
 I'm Anish Kumar Dhanka/Mourya (He/him), a computer programmer, DevOps & self-taught engineer, passionate about open source and solving computer science problems that help for a better world.
 
-Currently, I am learning Golang and Rust to enhance more programming concepts and also focusing on code quality & principles of software engineering.
- 
-I mainly work on Kubernetes, Docker, Python, PHP & Typescript.
-
-The next challenge for me to setup Event-driven based microservice architecture for real-time systems.
-
-You can contact on LinkedIn - https://www.linkedin.com/in/anish-kumar-dhanka-mourya-23aa83a9/.
-
-<!--
+- 🔭 I’m currently working on event driven real time system
+- 🌱 I’m currently learning rust & golang.
+- 📫 How to reach me: https://www.linkedin.com/in/anish-kumar-dhanka-mourya-23aa83a9/
+ <!--
 **Anishmourya/anishmourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
