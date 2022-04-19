@@ -3,9 +3,7 @@
  -->
 I'm Anish Kumar Dhanka/Mourya (He/him), a computer programmer, DevOps & self-taught engineer, passionate about open source and solving computer science problems that help for a better world.
 
-- 🔭 I’m currently working on event driven real time system
-- 🌱 I’m currently learning rust & golang.
-- 📫 How to reach me: https://www.linkedin.com/in/anish-kumar-dhanka-mourya-23aa83a9/
+- 📫 How to reach me: https://www.linkedin.com/in/anish-kumar-dhanka-23aa83a9/
  <!--
 **Anishmourya/anishmourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
